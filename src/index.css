@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+  font-family: 'Red Hat Display', sans-serif;
+  @apply bg-pink-100;
+  
+}
+#root{
+  /* display: flex;  */
+  @apply m-8 box-border;
+}
