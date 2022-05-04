@@ -9,5 +9,5 @@ body{
 }
 #root{
   /* display: flex;  */
-  @apply m-8 box-border;
+  @apply box-border;
 }

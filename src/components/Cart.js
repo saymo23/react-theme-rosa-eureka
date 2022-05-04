@@ -1,6 +1,5 @@
 import React from 'react'
 import { FiShoppingCart } from 'react-icons/fi';
-import { BsDot } from 'react-icons/bs';
 function Cart() {
   return (
     <div className='flex items-center cursor-pointer'>
